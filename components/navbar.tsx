@@ -22,7 +22,7 @@ export function Navbar(){
   },
     ]
         return(
-        <div className="shadow bg-white fixed top-0 right-0 left-0">
+        <div className="shadow bg-white fixed top-0 right-0 left-0 z-50">
             <div className="relative justify-between items-center flex  py-6 px-2 max-w-7xl  mx-auto w-full">  
             <div>
                 <Link href="#home" className="flex gap-2 items-center">
