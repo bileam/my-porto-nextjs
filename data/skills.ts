@@ -1,0 +1,58 @@
+export const skills = [
+  {
+    id: 1,
+    name: "React.js",
+    category: "Frontend",
+    icon: "react",
+    level: "Intermediate",
+  },
+  {
+    id: 2,
+    name: "Next.js",
+    category: "Frontend",
+    icon: "nextjs",
+    level: "Intermediate",
+  },
+  {
+    id: 3,
+    name: "TypeScript",
+    category: "Language",
+    icon: "typescript",
+    level: "Intermediate",
+  },
+  {
+    id: 4,
+    name: "JavaScript",
+    category: "Language",
+    icon: "javascript",
+    level: "Intermediate",
+  },
+  {
+    id: 5,
+    name: "Tailwind CSS",
+    category: "Frontend",
+    icon: "tailwind",
+    level: "Intermediate",
+  },
+  {
+    id: 6,
+    name: "Express.js",
+    category: "Backend",
+    icon: "express",
+    level: "Basic",
+  },
+  {
+    id: 7,
+    name: "MongoDB",
+    category: "Database",
+    icon: "mongodb",
+    level: "Basic",
+  },
+  {
+    id: 8,
+    name: "Git",
+    category: "Tools",
+    icon: "git",
+    level: "Intermediate",
+  },
+];
